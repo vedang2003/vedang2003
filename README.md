@@ -4,13 +4,6 @@
 - 👀 I’m interested in Competitive Programming
 - 📫 How to reach me: vedangc03@gmail.com
 <div align="center">
-
-<h2 style={text-align: center;}>GITHUB STATS<h2>
-  
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Vedang's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedang2003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
   <h2 style={text-align: center;}>TECHNICAL STATS<h2>
     
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
