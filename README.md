@@ -28,7 +28,27 @@
 
  </div>
 
+<div align="center">
+<h2 ><b>My Github Stats</b></h2>
+<br/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&theme=dark&hide_border:true&theme=coba;t" />
+<br/>
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang2003&show_icons=true&theme=cobalt" />
+<br/>
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2003&layout=compact&theme=cobalt" />
 </div>
+<br>
+<br/>
+
+<div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
+<br>
 <!--
 **vedang2003/vedang2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
