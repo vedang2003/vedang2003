@@ -32,17 +32,17 @@
 <h2 ><b>My Github Stats</b></h2>
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&theme=dark&hide_border:true&theme=cobalt" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&hide_border:true&theme=onedark" />
 <br/>
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang2003&show_icons=true&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang2003&show_icons=true&theme=onedark" />
 <br/>
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2003&layout=compact&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2003&layout=compact&theme=onedark" />
 </div>
 <br>
 <br/>
