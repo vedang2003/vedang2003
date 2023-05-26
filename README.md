@@ -32,7 +32,7 @@
 <h2 ><b>My Github Stats</b></h2>
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&theme=dark&hide_border:true&theme=coba;t" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&theme=dark&hide_border:true&theme=cobalt" />
 <br/>
 
 <br/>
