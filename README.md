@@ -27,23 +27,6 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
     
-<div align="center">
-<h2 ><b>My Github Stats</b></h2>
-<br/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang2003&hide_border:true&theme=onedark" />
-<br/>
-
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang2003&show_icons=true&theme=onedark" />
-<br/>
-
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2003&layout=compact&theme=onedark" />
-</div>
-<br>
 <br/>
     
 <div align="center">
